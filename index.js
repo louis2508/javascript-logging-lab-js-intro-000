@@ -1,3 +1,1 @@
-console.error("HELP!")
-console.log("you need to get this right")
-console.warn("that is not it.")
+var a = 5, b = 2, c = 3, d = 'hello', e = 'goodbye';
